@@ -1,2 +1,2 @@
 # Coffe
-https://garteks.github.io/coffe/
+https://garteks.github.io/Coffe/
